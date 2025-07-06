@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.npy
+*.pkl
+*.mod
+*.dylib
+*.log
+data/model/
+data/plot/
